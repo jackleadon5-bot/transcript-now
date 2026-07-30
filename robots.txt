@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ytvideotranscript.com/sitemap.xml
+Sitemap: ytvideotranscript.netlify.app/sitemap.xml
