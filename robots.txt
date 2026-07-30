@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: ytvideotranscript.netlify.app/sitemap.xml
